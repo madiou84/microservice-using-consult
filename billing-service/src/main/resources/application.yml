@@ -7,7 +7,7 @@ spring:
     import: optional:consul://, vault://
   cloud:
     vault:
-      token: hvs.Y2oivE7ThzyA8PfbAXN3LWfm
+      token: hvs.0U182dpF0153Mt6fKr59bXYN
       scheme: http
       kv:
         enabled: true
